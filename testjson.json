@@ -1,0 +1,30 @@
+[
+  {
+    "id" : 1,
+    "type": "pass"
+  },
+  {
+    "id" : 2,
+    "type": "notpass"
+  },
+  {
+    "id" : 3,
+    "type": "pass"
+  },
+  {
+    "id" : 4,
+    "type": "pass"
+  },
+  {
+    "id" : 5,
+    "type": "notpass"
+  },
+  {
+    "id" : 6,
+    "type": "pass"
+  },
+  {
+    "id" : 7,
+    "type": "pass"
+  }
+]
