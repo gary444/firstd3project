@@ -1,0 +1,9 @@
+body {
+  margin: 25px;
+}
+#graph {
+  width: 900px;
+  height: 600px;
+  border: 1px solid silver;
+  background: #e6e6e6;
+}
