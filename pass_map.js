@@ -108,6 +108,8 @@ function buildPassMatrices(){
 
 };
 
+// computes a matrix of number of passes between members of a team
+// includes number of incomplete passes as last column 
 function buildPassMatrix(players, passes, team){
 
   //create empty matrix
