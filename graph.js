@@ -14,7 +14,6 @@ for (let i = 0; i < jsonRectangles.length; i++){
   if (temp_y > max_y){max_y = temp_y;}
 }
 
-
 let svgContainer = d3.select("body").append("svg")
   .attr("width", max_x + 20)
   .attr("height", max_y + 20);
